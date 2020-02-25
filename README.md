@@ -1,1 +1,1 @@
-# Image-Encrypter-Decrypter-TemplateMatching
+# Image Encrypter/Decrypter & TemplateMatching
